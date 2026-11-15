@@ -1,0 +1,12 @@
+{
+  "name": "ember-spacefire-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static NASA microgravity fire-safety research dashboard",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

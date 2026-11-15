@@ -1,0 +1,6 @@
+experiment,fuel,atmosphere_mixture,diluent,limiting_oxygen_index,droplet_mm_min,droplet_mm_max,environment,source_url,source_note
+FLEX,Methanol,O2/N2,Nitrogen,0.12,1.5,5.0,ISS microgravity; tested droplet conditions,https://link.springer.com/article/10.1007/s12217-014-9372-2,Reported LOI for oxygen/nitrogen mixture
+FLEX,n-Heptane,O2/N2,Nitrogen,0.15,1.5,5.0,ISS microgravity; tested droplet conditions,https://link.springer.com/article/10.1007/s12217-014-9372-2,Reported LOI for oxygen/nitrogen mixture
+FLEX,Methanol,O2/N2/CO2,Carbon dioxide,0.14,1.5,5.0,ISS microgravity; simulated CO2 suppressant dilution,https://link.springer.com/article/10.1007/s12217-014-9372-2,Approximate LOI for specified O2/N2/CO2 mixture
+FLEX,n-Heptane,O2/N2/CO2,Carbon dioxide,0.17,1.5,5.0,ISS microgravity; simulated CO2 suppressant dilution,https://link.springer.com/article/10.1007/s12217-014-9372-2,Approximate LOI for specified O2/N2/CO2 mixture
+

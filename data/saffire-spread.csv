@@ -1,0 +1,8 @@
+test_id,experiment,platform,gravity,material,config,flow_cm_s,sample_cm,spread_rate_mm_s,flame_power_w,power_uncertainty_w
+S1-C,Saffire-I,Cygnus (OA-6),Microgravity,SIBAL cotton-fiberglass,Concurrent,20,41 x 94,1.8,1200,300
+S1-O,Saffire-I,Cygnus (OA-6),Microgravity,SIBAL cotton-fiberglass,Opposed,20,41 x 10,1.3,,
+S2-C,Saffire-II,Cygnus (OA-5),Microgravity,SIBAL cotton-fiberglass,Concurrent,20,5 x 29,2.03,200,50
+S4-C,Saffire-IV,Cygnus,Microgravity,SIBAL cotton-fiberglass,Concurrent,20,41 x 50,3.6,,
+S5-C,Saffire-V,Cygnus,Microgravity,Pure cotton,Concurrent,20,41 x 50,3.4,,
+G-100,Ground reference,Earth lab at 100 kPa,Normal gravity,SIBAL cotton-fiberglass,Concurrent,20,small-scale,41.8,,
+G-030,Ground reference,Earth lab at 30 kPa,Normal gravity,SIBAL cotton-fiberglass,Concurrent,20,small-scale,5.4,,
